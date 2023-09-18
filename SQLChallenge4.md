@@ -3,6 +3,9 @@
 ## Intro
 In my role as a Finance Analyst at 'The Big Bank,' I've been assigned the responsibility of gaining a deeper understanding of our customers and their banking habits. This entails a comprehensive examination of the various accounts they maintain and the nature of transactions they engage in, with the aim of uncovering valuable insights into our customer base.
 
+![Case Study Theme](https://github.com/VaishSaurav/Images/blob/main/Steel%20Data.jpg)
+
+
 ## Tables
 ![Image 1](https://steeldata.org.uk/SQL4tables.png)
 
