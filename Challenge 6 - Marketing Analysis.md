@@ -1,6 +1,6 @@
 # Challenge 6 - Marketing Analysis
 
-## Intro
+## Intro 
 
 I'm a Marketing Analyst
 The 'Sustainable Clothing Co.' have been running several marketing campaigns and have asked me to provide my insight into whether they have been successful or not.
